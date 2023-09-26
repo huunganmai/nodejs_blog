@@ -1,10 +1,12 @@
 @import 'variables';
 
-h1 {
-    color: $red-color; 
+.user-avatar {
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
 }
 
-h2 {
-    color: green;
+.checkbox-select-all-options {
+    width: 180px;
+    margin: 0 16px;
 }
-
